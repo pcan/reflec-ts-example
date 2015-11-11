@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "sourceMap": true,
+        "outDir": "./dist/"
+    },
+    "filesGlob": [
+        "./src/**/*.ts",
+        "./lib/**/*.ts",
+        "!node_modules/**"
+    ],
+    "files": [
+        "./src/engines.ts",
+        "./src/generated/reflect-info.ts",
+        "./src/main.ts",
+        "./lib/types.d.ts"
+    ]
+}
