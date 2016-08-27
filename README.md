@@ -1,6 +1,6 @@
 # reflec-ts is out!
 
-Check it out [here](https://github.com/pcan/reflec-ts)
+Check it out [here](https://github.com/pcan/reflec-ts). For a complete set of example, see [here](https://github.com/pcan/reflec-ts-examples).
 
 # Reflec-Ts Example
 
